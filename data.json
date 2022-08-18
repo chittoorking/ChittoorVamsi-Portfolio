@@ -41,11 +41,23 @@
             "SQLite",
             "Microsoft Azure",
             "Google Cloud",
-            "Streamlit"
+            "Streamlit",
+            "AWS EMR",
+            "AWS S3"
         ],
-        "Mobile": [
+        "Distributed computing":[
+            "PySpark"
+        ],
+        "Visualizations": [
             "Tableau",
-            "Microsoft Excel"
+            "Microsoft Excel",
+            "Google Data Studio"
+        ],
+        "verion control": [
+            "Git"
+        ],
+        "workflow management":[
+            "Apache Airflow"
         ]
     },
     "projects": {
