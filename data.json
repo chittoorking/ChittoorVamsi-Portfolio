@@ -3,8 +3,7 @@
     "landing": {
         "title": "Hi, I'm Chittoor Vamsi",
         "subtitles": [
-            "Data Scientist Intern ",
-            "Member of Student Academic Council IIIT SriCity ",
+            "Data Scientist",
             "Exploring cloud ☁️"
         ],
         "professionalDetails": [
@@ -87,10 +86,8 @@
                 "role": "Data Scientist",
                 "type": "Internship",
                 "startDate": "2022-05-09",
-                "endDate": "Ongoing",
-                "city": "",
-                "state": "",
-                "country": "Remote",
+                "endDate": "2022-07-31",
+                "location": "Remote",
                 "url": "https://www.linkedin.com/company/instaminutes/clouddfn-llp/",
                 "thumbnail": "/instaminutes.jfif"
             },
@@ -100,9 +97,7 @@
                 "type": "Internship",
                 "startDate": "2022-03-08",
                 "endDate": "2022-04-12",
-                "city": "",
-                "state": "",
-                "country": "Remote",
+                "location": "Remote",
                 "url": "https://www.linkedin.com/company/instaminutes/clouddfn-llp/",
                 "thumbnail": "/instaminutes.jfif"
             },
@@ -112,9 +107,7 @@
                 "type": "Freelance",
                 "startDate": "2021-12-15",
                 "endDate": "2022-01-27",
-                "city": "",
-                "state": "",
-                "country": "Remote",
+                "location": "Remote",
                 "url": "https://www.linkedin.com/company/omdena/clouddfn-llp/",
                 "thumbnail": "/omdena.png"
             },
@@ -124,9 +117,7 @@
                 "type": "Internship",
                 "startDate": "2021-12-01",
                 "endDate": "2021-12-31",
-                "city": "",
-                "state": "",
-                "country": "Remote",
+                "location": "Remote",
                 "url": "https://www.linkedin.com/company/myperfectelearning/clouddfn-llp/",
                 "thumbnail": "/Perfect_elearning.jfif"
             },
@@ -136,9 +127,7 @@
                 "type": "Internship",
                 "startDate": "Nov 2021",
                 "endDate": "Dec 2021",
-                "city": "",
-                "state": "",
-                "country": "Remote",
+                "location": "Remote",
                 "url": "https://www.linkedin.com/company/microsoft/clouddfn-llp/",
                 "thumbnail": "/microsoft.png"
             },
@@ -148,9 +137,7 @@
                 "type": "Internship",
                 "startDate": "Nov 2021",
                 "endDate": "Nov 2021",
-                "city": "",
-                "state": "",
-                "country": "Remote",
+                "location": "Remote",
                 "url": "https://www.linkedin.com/company/the-sparks-foundation/clouddfn-llp/",
                 "thumbnail": "/sparks_foundation.png"
             },
@@ -160,9 +147,7 @@
                 "type": "Internship",
                 "startDate": "May 2021",
                 "endDate": "Jul 2021",
-                "city": "",
-                "state": "",
-                "country": "Remote",
+                "location": "Remote",
                 "url": "https://www.linkedin.com/company/verzeo/clouddfn-llp/",
                 "thumbnail": "/verzeo.png"
             }
@@ -173,10 +158,8 @@
                 "role": "Member",
                 "type": "Student Academic Council",
                 "startDate": "August 2021",
-                "endDate": "Ongoing",
-                "city": "Chittoor",
-                "state": "Andhra Pradesh",
-                "country": "India",
+                "endDate": "August 2022",
+                "location": "Remote",
                 "url": "https://www.linkedin.com/school/indian-institute-of-information-technology-sricity/mycompany/pisbieee/",
                 "thumbnail": "/images.png"
             },
@@ -186,9 +169,7 @@
                 "type": "National Service Scheme",
                 "startDate": "August 2019",
                 "endDate": "Ongoing",
-                "city": "Chittoor",
-                "state": "Andhra Pradesh",
-                "country": "India",
+                "location": "Remote",
                 "url": "https://www.linkedin.com/school/indian-institute-of-information-technology-sricity/mycompany/pisbieee/",
                 "thumbnail": "/images.png"
             }
