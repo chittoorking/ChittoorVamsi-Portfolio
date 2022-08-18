@@ -74,7 +74,7 @@ export default function Skills() {
                         <div>
                             <Image
                                 alt="Skills"
-                                src="/skill.svg"
+                                src="/my_data_science_skills.png"
                                 width="1139"
                                 height="655"
                             />
