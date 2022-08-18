@@ -41,16 +41,15 @@
             "Microsoft Azure",
             "Google Cloud",
             "Streamlit",
-            "AWS EMR",
-            "AWS S3"
+            "Amazon EC2",
+            "Amazon S3"
         ],
         "Distributed computing":[
-            "PySpark"
+            "Apache Spark"
         ],
         "Visualizations": [
             "Tableau",
-            "Microsoft Excel",
-            "Google Data Studio"
+            "Microsoft Excel"
         ],
         "verion control": [
             "Git"
