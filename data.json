@@ -41,8 +41,7 @@
             "Microsoft Azure",
             "Google Cloud",
             "Streamlit",
-            "Amazon EC2",
-            "Amazon S3"
+            "AMmazon AWS"
         ],
         "Distributed computing":[
             "Apache Spark"
