@@ -72,7 +72,7 @@ export default function Landing() {
                         professionalDetails.map(({ alt, icon, link }, i) =>
                             <Grid item key={i}>
                                 <a href={link} target="_blank" rel="noopener noreferrer">
-                                    <Zoom in={true} style={{ transitionDelay: `${100 * i}ms` }}>
+                                    <Zoom in={true} style={{ transitionDelay: `${50 * i}ms` }}>
                                         <Tooltip title={alt} placement="top">
                                             <Avatar variant="rounded" className={clsx([classes.avatar, classes[alt]])}>
                                                 {icon}
@@ -87,7 +87,7 @@ export default function Landing() {
             </Grid>
 
             <Hidden mdDown>
-                <Fade in={true} style={{ transitionDelay: '100ms' }}>
+                <Fade in={true} style={{ transitionDelay: '50ms' }}>
                     <Grid item lg={6}>
                         <Image
                             src="/landing.svg"
