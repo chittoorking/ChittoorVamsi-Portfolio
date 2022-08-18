@@ -99,9 +99,7 @@ export default function Experience() {
                                         type,
                                         startDate,
                                         endDate,
-                                        city,
-                                        state,
-                                        country,
+                                        location,
                                         url,
                                         thumbnail
                                     }, i) =>
@@ -135,7 +133,7 @@ export default function Experience() {
                                                         />
                                                         <CardHeader
                                                             avatar={<LocationCity />}
-                                                            subheader={`${city}, ${state}, ${country}`}
+                                                            subheader={`${location}`}
                                                             className={classes.cardHeader}
                                                         />
                                                     </CardActionArea>
