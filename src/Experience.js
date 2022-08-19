@@ -99,9 +99,7 @@ export default function Experience() {
                                         type,
                                         startDate,
                                         endDate,
-                                        city,
-                                        state,
-                                        country,
+                                        location,
                                         url,
                                         thumbnail
                                     }, i) =>
