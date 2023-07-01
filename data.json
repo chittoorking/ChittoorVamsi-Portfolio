@@ -21,6 +21,11 @@
                 "alt": "Email",
                 "icon": "gmail",
                 "link": "mailto:chittoorvamsi@gmail.com"
+            },
+            {
+                "alt": "Email",
+                "icon": "topmate",
+                "link": "mailto:chittoorvamsi@gmail.com"
             }
         ]
     },
