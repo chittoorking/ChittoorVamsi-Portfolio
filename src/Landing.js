@@ -62,8 +62,8 @@ export default function Landing() {
 
                     <ReactTyped
                         strings={landing.subtitles}
-                        typeSpeed={40}
-                        backSpeed={50}
+                        typeSpeed={50}
+                        backSpeed={60}
                         loop
                     />
                 </Typography>
@@ -72,7 +72,7 @@ export default function Landing() {
                         professionalDetails.map(({ alt, icon, link }, i) =>
                             <Grid item key={i}>
                                 <a href={link} target="_blank" rel="noopener noreferrer">
-                                    <Zoom in={true} style={{ transitionDelay: `${50 * i}ms` }}>
+                                    <Zoom in={true} style={{ transitionDelay: `${10 * i}ms` }}>
                                         <Tooltip title={alt} placement="top">
                                             <Avatar variant="rounded" className={clsx([classes.avatar, classes[alt]])}>
                                                 {icon}
@@ -87,7 +87,7 @@ export default function Landing() {
             </Grid>
 
             <Hidden mdDown>
-                <Fade in={true} style={{ transitionDelay: '50ms' }}>
+                <Fade in={true} style={{ transitionDelay: '10ms' }}>
                     <Grid item lg={6}>
                         <Image
                             src="/landing.svg"

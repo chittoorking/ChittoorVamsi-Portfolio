@@ -93,7 +93,7 @@ export default function Skills() {
                                 {
                                     wrappedSkills[title].map(({ alt, icon }, i) =>
                                         <Grid item key={i}>
-                                            <Zoom in={animate} style={{ transitionDelay: `${75 * i}ms` }}>
+                                            <Zoom in={animate} style={{ transitionDelay: `${25 * i}ms` }}>
                                                 <Tooltip title={alt.replace("_", " ")} placement="top">
                                                     <Avatar variant="rounded" className={clsx([classes.avatar, classes[alt]])}>
                                                         {icon}

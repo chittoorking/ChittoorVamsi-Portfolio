@@ -31,7 +31,7 @@ export default function Projects({ data }) {
                     Projects
                 </Typography>
                 <Hidden mdDown>
-                    <Fade in={animate} style={{ transitionDelay: '100ms' }}>
+                    <Fade in={animate} style={{ transitionDelay: '10ms' }}>
                         <div>
                             <Image
                                 alt="Projects"
@@ -47,7 +47,7 @@ export default function Projects({ data }) {
                 {
                     !!data && data.map((v, i) =>
                         <Grid item sm={6} xs={12} key={i}>
-                            <Fade in={animate} style={{ transitionDelay: `${100 * i}ms` }}>
+                            <Fade in={animate} style={{ transitionDelay: `${10 * i}ms` }}>
                                 <Card key={i} className={classes.card}>
                                     <CardActionArea
                                         className={classes.cardActionArea}
