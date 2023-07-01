@@ -72,7 +72,7 @@ export default function Experience() {
                     Experience
                 </Typography>
                 <Hidden mdDown>
-                    <Fade in={animate} style={{ transitionDelay: '100ms' }}>
+                    <Fade in={animate} style={{ transitionDelay: '10ms' }}>
                         <div>
                             <Image
                                 alt="Experience"
