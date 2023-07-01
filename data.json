@@ -4,6 +4,9 @@
         "title": "Hi, I'm Chittoor Vamsi",
         "subtitles": [
             "Data Scientist",
+            "Mentor",
+            "Content Creator",
+            "Course Reviewer",
             "Exploring cloud ☁️"
         ],
         "professionalDetails": [
@@ -212,6 +215,16 @@
         ],
         "Volunteer Experience": [
             {
+                "organization": "The Guiding Voice",
+                "role": "Speaker",
+                "type": "Guest",
+                "startDate": "",
+                "endDate": "",
+                "location": "Remote",
+                "url": "https://www.linkedin.com/company/theguidingvoice/",
+                "thumbnail": "/TGV.jpg"
+            },
+            {
                 "organization": "IIIT SriCity",
                 "role": "Member",
                 "type": "Student Academic Council",
@@ -234,8 +247,8 @@
         ]
     },
     "about": {
-        "description": "Hi! This is Chittoor Vamsi an aspiring Data Scientist with experience wearing multiple roles related to Data Science.I could lead teams by making work easy and comfortable .Passionate about public speaking .I keep upskilling myself in Data Science field to keep myself updated.",
-        "picture": "/profile.jpeg",
+        "description": "Hi, I'm Chittoor Vamsi, a versatile Data Scientist with a wealth of experience in various Data Science roles. I have a knack for leading teams, simplifying complex tasks, and a strong passion for public speaking. As a full-time Data Scientist, I provide valuable data-driven insights and make informed decisions. Additionally, I offer mentorship, create engaging content, review data science courses, and take on freelance projects. My dedication to continuous upskilling keeps me at the forefront of the ever-evolving Data Science field. Whether you're seeking collaboration or guidance in your Data Science journey, feel free to reach out. Let's connect and make a lasting impact together!",
+        "picture": "/profile_picture.jpeg",
         "social": [
             {
                 "alt": "Vamsi Chittoor",
