@@ -54,8 +54,7 @@
             "Git"
         ],
         "workflow management":[
-            "Apache Airflow",
-            "Cron"
+            "Apache Airflow"
         ]
     },
     "projects": {
@@ -80,6 +79,16 @@
     },
     "experience": {
         "Work Experience": [
+            {
+                "organization": "ENTER AI",
+                "role": "Python Mentor",
+                "type": "Freelance",
+                "startDate": "2022-12-15",
+                "endDate": "2023-03-31",
+                "location": "Remote",
+                "url": "https://www.linkedin.com/company/enter-ai/about/",
+                "thumbnail": "/Enter_ai.jpg"
+            },
             {
                 "organization": "InstaMiniutes",
                 "role": "Data Scientist",
