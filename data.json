@@ -80,6 +80,46 @@
     "experience": {
         "Work Experience": [
             {
+                "organization": "Obviously.ai",
+                "role": "Data Scientist",
+                "type": "Full Time",
+                "startDate": "2023-05-01",
+                "endDate": "Present",
+                "location": "Remote",
+                "url": "https://www.linkedin.com/company/obviously-ai",
+                "thumbnail": "/obviously_ai.jpg"
+            },
+            {
+                "organization": "StarAgile",
+                "role": "Data Science Mentor",
+                "type": "Freelance",
+                "startDate": "2023-03-01",
+                "endDate": "Present",
+                "location": "Remote",
+                "url": "https://www.linkedin.com/company/staragile",
+                "thumbnail": "/StarAgile.jpg"
+            },
+            {
+                "organization": "Project Pro",
+                "role": "YouTube Content Creator",
+                "type": "Freelance",
+                "startDate": "2022-11-01",
+                "endDate": "Present",
+                "location": "Remote",
+                "url": "https://www.linkedin.com/company/goprojectpro/",
+                "thumbnail": "/ProjectPro.jpg"
+            },
+            {
+                "organization": "GUVI Geek Networks, IITM Research Park",
+                "role": "Data Science Courses Quality Assurance",
+                "type": "Freelance",
+                "startDate": "2023-01-01",
+                "endDate": "Present",
+                "location": "Remote",
+                "url": "https://www.linkedin.com/company/guviofficial",
+                "thumbnail": "/GUVI.jpg"
+            },
+            {
                 "organization": "Episource",
                 "role": "Data Analytics Intern",
                 "type": "Internship",
