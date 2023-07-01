@@ -80,6 +80,16 @@
     "experience": {
         "Work Experience": [
             {
+                "organization": "Episource",
+                "role": "Data Analytics Intern",
+                "type": "Internship",
+                "startDate": "2023-01-02",
+                "endDate": "2023-04-30",
+                "location": "Chennai",
+                "url": "https://www.linkedin.com/company/episource/",
+                "thumbnail": "/episource.jpg"
+            },
+            {
                 "organization": "ENTER AI",
                 "role": "Python Mentor",
                 "type": "Freelance",
