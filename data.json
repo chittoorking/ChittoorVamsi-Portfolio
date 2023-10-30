@@ -94,11 +94,21 @@
                 "thumbnail": "/obviously_ai.jpg"
             },
             {
+                "organization": "upGrad",
+                "role": "Data Science Mentor",
+                "type": "Freelance",
+                "startDate": "2023-08-14",
+                "endDate": "Present",
+                "location": "Remote",
+                "url": "https://www.linkedin.com/company/knowledgehutupgrad",
+                "thumbnail": "/knowledgeHut_Upgrad.jpeg"
+            },
+            {
                 "organization": "StarAgile",
                 "role": "Data Science Mentor",
                 "type": "Freelance",
                 "startDate": "2023-03-01",
-                "endDate": "Present",
+                "endDate": "2023-08-31",
                 "location": "Remote",
                 "url": "https://www.linkedin.com/company/staragile",
                 "thumbnail": "/StarAgile.jpg"
@@ -108,7 +118,7 @@
                 "role": "YouTube Content Creator",
                 "type": "Freelance",
                 "startDate": "2022-11-01",
-                "endDate": "Present",
+                "endDate": "2023-05-01",
                 "location": "Remote",
                 "url": "https://www.linkedin.com/company/goprojectpro/",
                 "thumbnail": "/ProjectPro.jpg"
@@ -118,7 +128,7 @@
                 "role": "Data Science Courses Quality Assurance",
                 "type": "Freelance",
                 "startDate": "2023-01-01",
-                "endDate": "Present",
+                "endDate": "2023-10-31",
                 "location": "Remote",
                 "url": "https://www.linkedin.com/company/guviofficial",
                 "thumbnail": "/GUVI.jpg"
